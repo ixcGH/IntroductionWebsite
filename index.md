@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <title>ixc's Personal Introduction</title>
+    <header>
+        <h1>Who am I?</h1>
+    </header>
+    <body>
+        <p>I am ixc. I am currently in school still, however I will not explain much more than that for privacy reasons. I spend most of my time playing games for fun, watching videos, or for about 2 hours a day I do some basic HTML coding with some CSS to customise it. I live in England, so my timezone is BST (British Summer Time)</p>
+    </body>
+    <header>
+        <h2>What can I do for you?</h2>
+    </header>
+    <body>
+        <p>I am fully open to commissions, and due to not having a way of receiving payment, I will do these for free! However, there is one thing I must mention. I am not a professional and all of my knowledge about these coding languages is self-taught and I have had no assistance from anyone else. If you ask me to do a commission for you and I simply am unable to do it at the time due to not knowing how to with my current knowledge of the language, then I will just have to turn you down. Anyway, these commissions can range from just a small list of tasks you need to complete at home, to something as big as a website with buttons and hyperlinks leading onto 3rd party sites such as YouTube, instagram, or whatever you feel like!</p>
+    </body>
+    <header>
+        <h3>Want to ask any questions, or get a commission?</h3>
+    </header>
+    <p>It is very simple to get in contact with me. Simply join the Discord server linked on my profile and DM me from there! Depending on timezones, I could take up to 12 hours to respond.</p>
+    <p>Well, thats all I can think of right now. If you want to know anything else that isn't too personal, just DM me on discord and ask.</p>
+    <header>
+        <h4>Links</h4>
+        <a href="https://discord.gg/nGhZRdAdNe">Join my Discord!</a>
+        <a href="https://twitter.com/ClexedSaysStuff">Check out my twitter!</a>
+        <a href="https://github.com/ixcHTML">Back to my GitHub profile!</a>
+    </header>
+</html>
 
-You can use the [editor on GitHub](https://github.com/ixcHTML/IntroductionWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<style>
+    header {
+        size: 50px;
+        text-align: center;
+        color: lightskyblue;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    body {
+        size: 30px;
+        text-align: center;
+        color: lightblue;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
 
-### Markdown
+    html {
+        background-color: darkslategrey
+    }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ixcHTML/IntroductionWebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    a {
+        text-align: center;
+        size: 25px;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+</style>
