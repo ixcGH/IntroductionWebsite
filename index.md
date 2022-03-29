@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-    <title>ixc's Personal Introduction</title>
     <header>
         <h1>Who am I?</h1>
     </header>
@@ -25,29 +24,3 @@
         <a href="https://github.com/ixcHTML">Back to my GitHub profile!</a>
     </header>
 </html>
-
-<style>
-    header {
-        size: 50px;
-        text-align: center;
-        color: lightskyblue;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    }
-
-    body {
-        size: 30px;
-        text-align: center;
-        color: lightblue;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    }
-
-    html {
-        background-color: darkslategrey
-    }
-
-    a {
-        text-align: center;
-        size: 25px;
-        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    }
-</style>
